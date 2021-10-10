@@ -61,7 +61,7 @@ int main() {
     push(&head,7);
     push(&head,8);
     push(&head,9);
-    insertafter(head->next,2);
+//     insertafter(head->next,2);
 
     printlist(head);
     return 0;
